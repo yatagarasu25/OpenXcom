@@ -1,0 +1,4 @@
+sources:
+  1.2.12:
+    sha256: 6B8456DAB41E5E0081EFB44961D01D32B5D054BF884A54DD2BD42F8B699E2208
+    url: https://github.com/libsdl-org/SDL_mixer/archive/refs/tags/release-1.2.12.zip

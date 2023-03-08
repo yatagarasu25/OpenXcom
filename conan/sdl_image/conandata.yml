@@ -1,0 +1,4 @@
+sources:
+  1.2.12:
+    sha256: 93118C26D174B62463EE58A5A22D4FB267D0F50FE331E0FAC454FBBE36FB6E68
+    url: https://github.com/libsdl-org/SDL_image/archive/refs/tags/release-1.2.12.zip

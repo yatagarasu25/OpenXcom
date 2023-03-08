@@ -1,0 +1,4 @@
+sources:
+  0.4.5:
+    sha256: 4B40A6E8B3749995F4098C201823DEAAFA51EA186338F3130D6540509E00191D
+    url: https://github.com/icculus/smpeg/archive/refs/tags/release_0_4_5.zip

@@ -1,0 +1,4 @@
+sources:
+  1.2.15:
+    sha256: 2647B31702570C29FD5879276BB711A662FECA414DF0A43A00480AFF45B1EC0F
+    url: https://github.com/libsdl-org/SDL-1.2/archive/refs/tags/release-1.2.15.zip

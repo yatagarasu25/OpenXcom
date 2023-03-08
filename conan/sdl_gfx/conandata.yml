@@ -1,0 +1,4 @@
+sources:
+  2.0.25:
+    sha256: E1E3C6A0CB87CD98480C33CCC48D3A9CA1B54C1DCEF09ED8DF49213E8345B4EC
+    url: https://github.com/ferzkopp/SDL_gfx/archive/refs/heads/master.zip
